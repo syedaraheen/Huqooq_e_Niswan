@@ -135,3 +135,4 @@ For questions, suggestions, or feedback:
 ---
 
 Would you like me to also **add usage instructions for the AI/RAG part** (like how to index the PDFs and run retrieval), or keep the README focused only on the **frontend setup** for now?
+# Huqooq_e_Niswan_
