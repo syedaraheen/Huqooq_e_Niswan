@@ -4,9 +4,6 @@
 # OpenAI API Key (for embeddings)
 OPENAI_API_KEY=your_openai_api_key_here
 
-# Gemini API Key (for text generation)
-GEMINI_API_KEY=AIzaSyCYh_UO-Ftuw_vGeT7isQU-irJak4942ww
-
 # Model Configuration
 EMBEDDING_MODEL=text-embedding-ada-002
 LLM_MODEL=gpt-3.5-turbo
